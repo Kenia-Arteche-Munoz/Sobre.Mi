@@ -39,4 +39,4 @@ Soy una persona alegre, con caracter, responsable, trabajadora y exigente. Me gu
   </a>
 
 ---
-Proximamente, en construcción :next_track_button:
+:next_track_button: Próximamente, en construcción :next_track_button:

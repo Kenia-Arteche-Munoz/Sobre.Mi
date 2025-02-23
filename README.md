@@ -21,8 +21,8 @@ Hola, Soy Kenia ¡Encantada de conocerte!
 
 Soy una persona alegre, con caracter, responsable, trabajadora y exigente. Me gusta trabajar en equipo y el aprendizaje continuo.
 
-* 🎓 Graduada Economía y FP de Gestión de Ventas y Espacios Comerciales. Actualmente me encuentro estudiando el Master en Data Analytics en Pontiatech.
-* 💼 Actualmente trabajo en el sector de atención al cliente y espero que muy pronto pueda dedicarme al análisis de datos de manera profesional.
+* 🎓 Graduada en Economía y FP de Gestión de Ventas y Espacios Comerciales. Actualmente me encuentro estudiando el Master en Data Analytics en Pontiatech.
+* 💼 Trabajo en el sector de atención al cliente y espero que muy pronto pueda dedicarme al análisis de datos de manera profesional.
 
 ---
 ### :hammer_and_wrench: En prendizaje de Lenguajes y herramientas como :
